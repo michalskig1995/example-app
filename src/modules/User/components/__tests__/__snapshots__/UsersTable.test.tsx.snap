@@ -1,0 +1,196 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders the users table with user data 1`] = `
+<div>
+  <style
+    data-mantine-styles="classes"
+  >
+    @media (max-width: 35.99375em) {.mantine-visible-from-xs {display: none !important;}}@media (min-width: 36em) {.mantine-hidden-from-xs {display: none !important;}}@media (max-width: 47.99375em) {.mantine-visible-from-sm {display: none !important;}}@media (min-width: 48em) {.mantine-hidden-from-sm {display: none !important;}}@media (max-width: 61.99375em) {.mantine-visible-from-md {display: none !important;}}@media (min-width: 62em) {.mantine-hidden-from-md {display: none !important;}}@media (max-width: 74.99375em) {.mantine-visible-from-lg {display: none !important;}}@media (min-width: 75em) {.mantine-hidden-from-lg {display: none !important;}}@media (max-width: 87.99375em) {.mantine-visible-from-xl {display: none !important;}}@media (min-width: 88em) {.mantine-hidden-from-xl {display: none !important;}}
+  </style>
+  <div>
+    <table
+      class="m_b23fa0ef mantine-Table-table"
+      style="--table-vertical-spacing: var(--mantine-spacing-sm);"
+    >
+      <thead>
+        <tr>
+          <th>
+            Employee
+          </th>
+          <th>
+            Email
+          </th>
+          <th>
+            Phone
+          </th>
+          <th />
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <div>
+              <div
+                data-testid="mock-avatar"
+              />
+              <span>
+                Leanne Graham
+              </span>
+            </div>
+          </td>
+          <td>
+            <a>
+              Sincere@april.biz
+            </a>
+          </td>
+          <td>
+            <span>
+              1-770-736-8031 x56442
+            </span>
+          </td>
+          <td>
+            <div>
+              <button
+                data-testid="mock-action-icon"
+              >
+                <svg
+                  class="tabler-icon tabler-icon-pencil "
+                  fill="none"
+                  height="16"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4"
+                  />
+                  <path
+                    d="M13.5 6.5l4 4"
+                  />
+                </svg>
+              </button>
+              <button
+                data-testid="mock-action-icon"
+              >
+                <svg
+                  class="tabler-icon tabler-icon-trash "
+                  fill="none"
+                  height="16"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 7l16 0"
+                  />
+                  <path
+                    d="M10 11l0 6"
+                  />
+                  <path
+                    d="M14 11l0 6"
+                  />
+                  <path
+                    d="M5 7l1 12a2 2 0 0 0 2 2h8a2 2 0 0 0 2 -2l1 -12"
+                  />
+                  <path
+                    d="M9 7v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3"
+                  />
+                </svg>
+              </button>
+            </div>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <div>
+              <div
+                data-testid="mock-avatar"
+              />
+              <span>
+                Ervin Howell
+              </span>
+            </div>
+          </td>
+          <td>
+            <a>
+              Shanna@melissa.tv
+            </a>
+          </td>
+          <td>
+            <span>
+              010-692-6593 x09125
+            </span>
+          </td>
+          <td>
+            <div>
+              <button
+                data-testid="mock-action-icon"
+              >
+                <svg
+                  class="tabler-icon tabler-icon-pencil "
+                  fill="none"
+                  height="16"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4"
+                  />
+                  <path
+                    d="M13.5 6.5l4 4"
+                  />
+                </svg>
+              </button>
+              <button
+                data-testid="mock-action-icon"
+              >
+                <svg
+                  class="tabler-icon tabler-icon-trash "
+                  fill="none"
+                  height="16"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  stroke-width="1.5"
+                  viewBox="0 0 24 24"
+                  width="16"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M4 7l16 0"
+                  />
+                  <path
+                    d="M10 11l0 6"
+                  />
+                  <path
+                    d="M14 11l0 6"
+                  />
+                  <path
+                    d="M5 7l1 12a2 2 0 0 0 2 2h8a2 2 0 0 0 2 -2l1 -12"
+                  />
+                  <path
+                    d="M9 7v-3a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v3"
+                  />
+                </svg>
+              </button>
+            </div>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+`;
